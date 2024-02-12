@@ -1,15 +1,17 @@
+
+<p align="center">
+  <img src="https://github.com/R2turnTrue/R2turnTrue/assets/46389044/e03421ae-bc26-4a90-8130-5cd0cfb8f71f" width="60%" />
+  <img src="https://github.com/R2turnTrue/R2turnTrue/assets/46389044/5f9a9768-f126-45ff-83c7-582e65093949" width="40%" />
+
+  > I hate to think, therefore I am.
+</p>
+
 <h1 align="center">Hi 👋, I'm R2turnTrue</h1>
 <h3 align="center">A student developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r2turntrue&label=Profile%20views&color=0e75b6&style=flat" alt="r2turntrue" /> </p>
 
-- 🔭 I’m currently working on [Mine.js](https://github.com/Netherald/mine.js)
-
-- 🌱 I’m currently learning **React, NextJS, Rust**
-
-- 👨‍💻 All of my projects are available at [https://r2turntrue.xyz](https://r2turntrue.xyz) (not worked)
-
-- 📫 How to reach me **r3turntrue@gmail.com or discord R2turnTrue#4567**
+- 📫 How to reach me **r3turntrue@gmail.com or discord r2turntrue**
 
 - ⚡ Fun fact **HTML is not a programming language**
 
@@ -17,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/r2turntrue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r2turntrue" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/트루" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="트루" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/n7BExB4Dk6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/n7BExB4Dk6" height="30" width="40" /></a>
+<a href="https://discord.gg/n7BExB4Dk6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/n7BExB4Dk6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
