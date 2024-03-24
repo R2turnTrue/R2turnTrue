@@ -1,5 +1,5 @@
 
-> `I hate to think, therefore I am.`
+> `I `~~hate to~~` think, therefore I am.`
 
 ## Hi 👋, I'm R2turnTrue
 
