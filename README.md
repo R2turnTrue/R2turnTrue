@@ -7,7 +7,7 @@
 
 - 📝 Currently studying in middle school
 
-- 📫 You can reach me via **r3turntrue@gmail.com or discord r2turntrue**
+- For more information, visit [here](https://r2turntrue.notion.site/aa24605e07af4ef5ae977e55834288ff) please.
 
 - ⚡ Fun fact **HTML is not a programming language**
 
