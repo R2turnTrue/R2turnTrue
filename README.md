@@ -3,9 +3,11 @@
 
 ## Hi 👋, I'm R2turnTrue
 
-- 👋 I'm a student developer from Incheon, South Korea
+- 👋 I'm a aspirant to a game / application developer from Incheon, South Korea
 
 - 📝 Currently studying in middle school
+
+- ✨️ Interested in [raylib](https://github.com/raysan5/raylib), [unity engine](https://unity.com), etc...
 
 - For more information, visit [here](https://r2turntrue.notion.site/aa24605e07af4ef5ae977e55834288ff) please.
 
