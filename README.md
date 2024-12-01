@@ -3,7 +3,7 @@
 
 ## Hi 👋, I'm R2turnTrue
 
-- 👋 I'm a aspirant to a game / application developer from Incheon, South Korea
+- 👋 I'm a aspirant to a software developer from Incheon, South Korea
 
 - 📝 Currently studying in middle school
 
