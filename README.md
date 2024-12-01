@@ -1,5 +1,5 @@
 
-> `I `~~hate to~~` think, therefore I am.`
+> `:thinking:`
 
 ## Hi 👋, I'm R2turnTrue
 
