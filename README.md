@@ -1,5 +1,7 @@
 
-> `:thinking:`
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a2b83ade-ec6e-4985-b4cf-15e1aaa01e7a" />
+</p>
 
 ## Hi 👋, I'm R2turnTrue
 
