@@ -7,9 +7,9 @@
 
 - 👋 I'm an aspirant to a software developer from Incheon, South Korea
 
-- 📝 Currently studying in middle school
+- 📝 Currently in the third grade at middle school
 
-- ✨️ Interested in [raylib](https://github.com/raysan5/raylib), [unity engine](https://unity.com), etc...
+- ✨️ Interested in Computer Graphics, Game Engine, etc...
 
 - For more information, visit [here](https://r2turntrue.notion.site/aa24605e07af4ef5ae977e55834288ff) please.
 
