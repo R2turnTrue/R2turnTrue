@@ -7,7 +7,11 @@
 
 - 👋 I'm an aspirant to a software developer from Incheon, South Korea
 
-- 📝 Currently in the third grade at middle school
+- 📝 Currently in the first grade at high school!
+
+- ✨️ Maintainer & Creator of open source library with 40+ stars: [chzzk4j](https://github.com/R2turnTrue/chzzk4j)
+
+- 🎥 Creator of [Video Editor (영상편집자)](https://vd.r2turntrue.xyz) (demo available on steam)
 
 - ✨️ Interested in Computer Graphics, Game Engine, etc...
 
